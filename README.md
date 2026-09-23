@@ -164,7 +164,7 @@ The dataset is synthetic, so the findings should be treated as project/demo anal
 ### 1. Clone the repository
 
 ```bash
-git clone github.com/PritamDe2005/Healthcare_Analytics
+git clone https://github.com/PritamDe2005/Healthcare_Analytics.git
 cd Healthcare_Analytics
 ```
 
